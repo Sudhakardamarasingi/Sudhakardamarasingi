@@ -1,189 +1,227 @@
-# 🧑‍💻 Hi, I'm **Sudhakar Damarasingi**  
-### Data Scientist | AI & ML Engineer | Generative AI | Data Analyst  
-
+<!-- Animated Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=230&section=header&text=Sudhakar%20Damarasingi&fontSize=45&fontAlignY=38&animation=fadeIn)
 
-📍 Bangalore, India  
-📧 damarasingisudhakar@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sudhakar-damarasingi)  
-🔗 [GitHub](https://github.com/Sudhakardamarasingi)
+<!-- Typing Animation -->
+<h1 align="center">
+  <a href="https://github.com/Sudhakardamarasingi">
+    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=28&center=true&vCenter=true&width=900&height=80&lines=Data+Scientist+%7C+AI+%26+ML+Engineer+%7C+GenAI+Developer;Machine+Learning+%7C+Deep+Learning+%7C+LLM+Applications;Data+Analytics+%7C+Business+Intelligence+%7C+FastAPI+Deployments;Turning+Data+Into+Intelligence+%26+AI+Into+Impact" />
+  </a>
+</h1>
 
 ---
 
-## 🎖️ Badges
+# 👨‍💻 **About Me**
+
+Hi, I build intelligent systems using **Machine Learning, Deep Learning, NLP, and Generative AI**.  
+I specialize in creating **end-to-end AI products**, from model development to full-stack deployment using **FastAPI, Streamlit, and cloud platforms**.
+
+My work includes predictive analytics, LLM applications, dashboarding, automation, and building scalable AI pipelines.
+
+📍 Bangalore, India  
+📧 **damarasingisudhakar@gmail.com**  
+🔗 **[LinkedIn](https://linkedin.com/in/sudhakar-damarasingi)**  
+🔗 **[Portfolio](https://github.com/Sudhakardamarasingi)**  
+
+---
+
+# 🛡️ **Badges**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![MachineLearning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
-![DeepLearning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=keras&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-FFD700?logo=openai&logoColor=000)
+![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=keras&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-FED300?logo=openai&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-CC0000?logo=apache&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=000)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
 ---
 
-# 🧭 About Me  
-I work on building intelligent data-driven systems. My focus includes machine learning, deep learning, generative AI, MLOps, and end-to-end AI applications.  
-I enjoy solving real-world problems with clean, scalable solutions and transforming raw data into insights that make an impact.
+# 📊 **GitHub Analytics**
 
----
-
-# 🤖 My Core Expertise
-
-- Machine Learning  
-- Deep Learning  
-- Generative AI (LLMs, Transformers)  
-- NLP and Text Mining  
-- Data Science Analytics  
-- FastAPI and ML Deployment  
-- Cloud Deployment (Hugging Face, Streamlit Cloud)  
-- SQL & Power BI for Business Insights  
-- End-to-End AI App Development  
-
----
-
-# 📊 GitHub Stats
-
-<p float="left">
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudhakardamarasingi&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakardamarasingi&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Sudhakardamarasingi&theme=tokyonight" />
 </p>
 
 ---
 
-# 🧩 Skills (AI/ML + Data Science)
+# 🧠 **Tech Stack**
 
 <details>
-<summary><strong>Click to Expand</strong></summary>
+<summary><h3>🧬 Artificial Intelligence & Machine Learning</h3></summary>
 
-### 🧠 **AI & Generative AI**
-- LLMs (GPT, Llama, Mistral)
-- Prompt Engineering
-- Text Summarization, Classification
-- Q&A, Chatbot Development
-- Vector Databases (FAISS, ChromaDB)
+- Classification, Regression, Recommendation Systems  
+- Random Forest, XGBoost, SVM, Logistic Regression  
+- ANN, CNN, RNN  
+- Hyperparameter Tuning, Feature Engineering  
+- Model Monitoring & Optimization  
 
-### 🤖 **Machine Learning**
-- Classification, Regression
-- XGBoost, Random Forest
-- Feature Engineering
-- Model Tuning and Optimization
+</details>
 
-### 🧬 **Deep Learning**
-- ANN, CNN, RNN
-- Keras, TensorFlow
-- Transfer Learning
+<details>
+<summary><h3>🤖 Generative AI & LLMs</h3></summary>
 
-### 🗣 **NLP**
-- Tokenization, Lemmatization
-- Sentiment Analysis
-- TF-IDF, Word2Vec
+- GPT, Llama, Mistral  
+- Prompt Engineering  
+- Text Summarization, Q&A, Chatbots  
+- Embeddings, Vector Databases (FAISS, Chroma)  
+- Context-aware assistants  
+- RAG Applications  
 
-### 📊 **Visualization**
-- Power BI
-- Matplotlib, Seaborn, Plotly
+</details>
 
-### 🗄 **Databases**
-- MySQL
-- Joins, Window Functions, Stored Procedures
+<details>
+<summary><h3>🗣 Natural Language Processing</h3></summary>
 
-### 🧪 **Web Scraping**
+- Tokenization, Lemmatization  
+- Sentiment Analysis  
+- Topic Modeling  
+- TF-IDF, Word2Vec  
+- Text Classification  
+
+</details>
+
+<details>
+<summary><h3>📊 Data Analytics & Business Intelligence</h3></summary>
+
+- Power BI (DAX, Power Query)  
+- KPI Tracking, Interactive Dashboards  
+- Excel (Automation, Pivot Tables, Reporting)  
+
+</details>
+
+<details>
+<summary><h3>🗄 Databases & Backend</h3></summary>
+
+- MySQL (Joins, Subqueries, Window Functions)  
+- ETL Pipelines  
+- FastAPI (Production-grade API development)  
+- Streamlit Deployment  
+
+</details>
+
+<details>
+<summary><h3>🕸 Web Scraping & Automation</h3></summary>
+
+- Selenium  
 - BeautifulSoup  
-- Selenium
-
-### ⚙ **Tools**
-- FastAPI  
-- Streamlit  
-- Jupyter Notebook  
-- Git & GitHub  
-- Docker (Basics)  
-- Excel  
+- Data Collection Pipelines  
 
 </details>
 
 ---
 
-# 🚀 Projects (AI/ML + Data Science)
+# 🚀 **Featured Projects**
 
 <details>
-<summary><strong>Click to Expand</strong></summary>
+<summary><h3>🏙 AQI Predictor Pro — Real-Time Air Pollution Forecasting</h3></summary>
 
-### 🏙 **AQI Predictor Pro — Real-Time Air Quality AI System**
-- FastAPI deployment on Hugging Face  
-- Trained on **850k+** air pollution records  
+- End-to-end ML system using FastAPI  
+- Trained on **850k+ pollution records**  
 - Predicts AQI for **100+ Indian cities**  
-- Accuracy: **99.9 percent**  
-- Includes real-time API ingestion pipeline  
+- Accuracy: **99.9%**  
+- Live API ingestion pipeline  
 
----
+</details>
 
-### 🤖 **Customer Churn Prediction**
+<details>
+<summary><h3>📉 Customer Churn Prediction — Machine Learning</h3></summary>
+
 - Logistic Regression + Random Forest  
-- Accuracy: **85 percent**  
-- Streamlit dashboard for predictions  
+- Accuracy: **85%**  
+- Deployed via Streamlit  
+- Full explainability reports  
 
----
+</details>
 
-### 🚗 **Used Car Price Analysis (OLX)**
-- Cleaned and analyzed **2,000+ listings**  
-- Found key price drivers such as brand, fuel, age  
-- Built end-to-end EDA project  
+<details>
+<summary><h3>🚗 Used Car Price Prediction — OLX Dataset</h3></summary>
 
----
+- Cleaned 2,000+ listings  
+- Found strongest price drivers  
+- Full EDA + visualization  
 
-### 📊 **ADIDAS Sales Analysis (Power BI)**
-- Dashboard with slicers, cards, maps, KPIs  
-- Insights across regions and product categories  
+</details>
 
----
+<details>
+<summary><h3>📊 ADIDAS Sales Analysis — Power BI</h3></summary>
 
-### 🗂 **Employee Data Management (SQL)**
-- Designed relational database  
-- HR analytics using joins, views, procedures  
+- KPI dashboards  
+- Trend analysis  
+- Maps, slicers, region insights  
 
----
+</details>
 
-### 🧠 **GenAI Mini Projects**
-- Text summarizer  
-- Email generator  
-- Resume analyser  
-- ChatBots with context memory  
+<details>
+<summary><h3>🗂 SQL Employee Data Management</h3></summary>
+
+- Database modeling  
+- Stored procedures, views  
+- HR insights and salary trends  
+
+</details>
+
+<details>
+<summary><h3>🤖 GenAI Mini Projects</h3></summary>
+
+- Resume Analyzer  
+- AI Email Writer  
+- Personalized Chatbot  
+- Text Summarizer  
+- Document Q&A Assistant  
 
 </details>
 
 ---
 
-# 📚 Daily Learning  
-Hands-on work across AI, ML, Python scripting, automation, NLP, and data engineering concepts.
+# 📚 **Daily Learning**
+
+I work on improving my skills in **AI, ML, GenAI, LLMs, NLP**, and deployment strategies including FastAPI and cloud ML hosting.
 
 ---
 
-# 🌱 Current Focus  
-- Improving GenAI and LLM fine-tuning  
-- Working on MLOps and model deployment  
-- Building advanced AI tools with FastAPI and vector search  
+# 🌱 **Current Focus Areas**
+
+- LLM Fine-tuning  
+- RAG-based Conversational Agents  
+- Deep Learning specialization  
+- Advanced ML deployment  
+- AI automation  
 
 ---
 
-# 💼 Availability  
-I’m open to roles such as:  
-**AI/ML Engineer • Data Scientist • Generative AI Engineer • Machine Learning Engineer • Data Analyst**  
-Immediate joining. Open to relocation.
+# 💼 **Open to Opportunities**
+
+Roles I am ready for:
+
+- AI/ML Engineer  
+- Data Scientist  
+- Generative AI Engineer  
+- ML Ops Learner  
+- Data Analyst  
+
+Ready to join immediately and open to relocation.
 
 ---
 
-# 🤝 Connect With Me  
+# 🤝 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhakar-damarasingi)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/Sudhakardamarasingi)
+<p align="left">
+  <a href="https://linkedin.com/in/sudhakar-damarasingi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Sudhakardamarasingi"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer)
 

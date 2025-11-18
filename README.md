@@ -261,9 +261,8 @@ Ready to join immediately and open to relocation.
   </a>
 
   <!-- Phone Call -->
-  <a href="tel:+919000143330">
-    <img src="https://img.shields.io/badge/Call%20Me-0A84FF?logo=googlephone&logoColor=white" />
-  </a>
+[![Call Me](https://img.shields.io/badge/Call%20Me-0A84FF?logo=googlephone&logoColor=white)](tel:+919000143330)
+
   
   <!-- Email -->
   <a href="mailto:damarasingisudhakar@gmail.com" target="_blank">

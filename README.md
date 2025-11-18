@@ -261,8 +261,8 @@ Ready to join immediately and open to relocation.
   </a>
 
   <!-- Phone Call -->
-  <a href="tel:+919000143330" target="_blank">
-    <img src="https://img.shields.io/badge/Call%20Me-0A84FF?logo=call&logoColor=white" />
+  <a href="tel:+919000143330">
+    <img src="https://img.shields.io/badge/Call%20Me-0A84FF?logo=googlephone&logoColor=white" />
   </a>
   
   <!-- Email -->

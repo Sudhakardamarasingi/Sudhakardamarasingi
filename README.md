@@ -73,6 +73,7 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
 ---
 
 ## 🐳 DevOps & Deployment
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 

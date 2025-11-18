@@ -260,16 +260,10 @@ Ready to join immediately and open to relocation.
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
 
-  <!-- Phone Call -->
-[![Call Me](https://img.shields.io/badge/Call%20Me-0A84FF?logo=googlephone&logoColor=white)](tel:+919000143330)
-
-  
   <!-- Email -->
   <a href="mailto:damarasingisudhakar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-
-
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sudhakar-damarasingi" target="_blank">

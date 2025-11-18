@@ -12,10 +12,10 @@
 
 # 👨‍💻 **About Me**
 
-Hi, I build intelligent systems using **Machine Learning, Deep Learning, NLP, and Generative AI**.  
+Hi, I build intelligent systems using **Machine Learning, Deep Learning, NLP and Generative AI**.  
 I specialize in creating **end-to-end AI products**, from model development to full-stack deployment using **FastAPI, Streamlit, and cloud platforms**.
 
-My work includes predictive analytics, LLM applications, dashboarding, automation, and building scalable AI pipelines.
+My work includes predictive analytics, LLM applications, dashboarding, automation and building scalable AI pipelines.
 
 📍 Bangalore, India  
 📧 **damarasingisudhakar@gmail.com**  
@@ -24,7 +24,7 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
 
 ---
 
-### _Core tools and technologies I use for AI, data science, automation, and deployment_
+### _Core tools and technologies I use for AI, data science, automation and deployment_
 
 ---
 

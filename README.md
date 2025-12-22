@@ -76,20 +76,6 @@ My work includes predictive analytics, LLM applications, dashboarding, automatio
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-
----
-
-# 📊 **GitHub Analytics**
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudhakardamarasingi&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakardamarasingi&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Sudhakardamarasingi&theme=tokyonight" />
-</p>
-
 ---
 
 # 🧠 **Tech Stack**
